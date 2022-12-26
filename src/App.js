@@ -246,6 +246,128 @@ function App() {
 
                     </div>
                 </div>
+                {/*border*/}
+                <div className="row">
+                    <div className="col-12 border-top my-3"></div>
+                </div>
+                {/*EDUCATION & TRAINING*/}
+                <div className="row">
+                    <div className="col-3">
+                        <div className="d-flex justify-content-end">
+                            <div className="fs-5 fw-bold" style={{color: "#418ab3"}}>EDUCATION & TRAINING</div>
+                        </div>
+                    </div>
+                    <div className="col-9">
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>WEB PROGRAM TRAINING (1 JUN,
+                                2015 - 31 AUG, 2015)
+                            </div>
+                            <div className="my-1" style={{color: "#418ab3"}}>Desh IT, Chittagong (Bangladesh)</div>
+                            <div className="px-2">
+                                <ul>
+                                    <li>HTML5</li>
+                                    <li>CSS3</li>
+                                    <li>Advance Javascript</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>B.SC. ENGINEERING IN COMPUTER
+                                SCIENCE & ENGINEERING (JAN, 2010 – JUN 2016)
+                            </div>
+                            <div className="my-1" style={{color: "#418ab3"}}>University of Chittagong, Chittagong
+                                (Bangladesh)
+                            </div>
+                            <div className="px-2">CGPA - 3.10 out of 4.00</div>
+                        </div>
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>HIGHER SECONDARY CERTIFICATE,
+                                2008
+                            </div>
+                            <div className="my-1" style={{color: "#418ab3"}}>Shahid Bul Bul Government College, Pabna
+                                (Bangladesh)
+                            </div>
+                            <div className="px-2">GPA – 4.60 out of 5.00</div>
+                        </div>
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>SECONDARY SCHOOL CERTIFICATE,
+                                2006
+                            </div>
+                            <div className="my-1" style={{color: "#418ab3"}}>Pabna Zilla School, Pabna (Bangladesh)
+                            </div>
+                            <div className="px-2">GPA – 5.00 out of 5.00</div>
+                        </div>
+                    </div>
+                </div>
+                {/*border*/}
+                <div className="row">
+                    <div className="col-12 border-top my-3"></div>
+                </div>
+                {/*UNIVERSITY PROJECTS*/}
+                <div className="row">
+                    <div className="col-3">
+                        <div className="d-flex justify-content-end">
+                            <div className="fs-5 fw-bold" style={{color: "#418ab3"}}>UNIVERSITY PROJECTS</div>
+                        </div>
+                    </div>
+                    <div className="col-9">
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>SCHOOL RESULT PROCESSING
+                                SYSTEM
+                            </div>
+                            <div className="px-2">
+                                <p>It is a desktop application. This application can be efficiently used any Primary and
+                                    High School in Bangladesh for student’s result processing purpose. It also shows all
+                                    information about student. In this application, all factors like subject name and
+                                    evolution mark, grade system, exam info, class info, group info, section info etc.
+                                    can be editable according to school authority need. Java EE and MySQL Database are
+                                    used in this application.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>UNIVERSITY STUDENT INFORMATION
+                                SYSTEM
+                            </div>
+                            <div className="px-2">
+                                <p>It is a desktop application. This application shows each student’s personal details
+                                    as well as result. Java SE and Embedded Database are used in this application.</p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+                {/*border*/}
+                <div className="row">
+                    <div className="col-12 border-top my-3"></div>
+                </div>
+
+                {/*PERSONAL PROJECTS*/}
+                <div className="row">
+                    <div className="col-3">
+                        <div className="d-flex justify-content-end">
+                            <div className="fs-5 fw-bold" style={{color: "#418ab3"}}>PERSONAL PROJECTS</div>
+                        </div>
+                    </div>
+                    <div className="col-9">
+                        <div>
+                            <div className="mt-1 fs-6 fw-bold" style={{color: "#418ab3"}}>SCHOOL ERP</div>
+                            <div className="px-2">It is an Web Application.</div>
+                            <div className="d-flex justify-content-start px-2">
+                                <div className="fw-bold">Tecnology Used:</div>
+                                <div className="mx-2">Spring Boot, Spring Security, Thymeleaf, Bootstrap, Custom Theme,
+                                    JPA, MySQL
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-start my-1">
+                                <div className="mx-2">Project Link:</div>
+                                <div><a href="https://github.com/kamal09/schoolerp/"
+                                        className="link-primary">https://github.com/kamal09/schoolerp/</a></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
                 {/*footer*/}
                 <div className="row">
                     <div className="col-12 my-3"></div>
